@@ -10,8 +10,8 @@
  ## How to download and use
  ### Clone git
  ```shell
- git clone https://github.com/nickjw0205/YTS-Download
- cd YTS-Download
+ >>> git clone https://github.com/nickjw0205/YTS-Download
+ >>> cd YTS-Download
  ```
 
  ### Set path of chromedriver
