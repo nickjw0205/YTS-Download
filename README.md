@@ -44,5 +44,4 @@ then you can see "search word : "
 Enter what you want to download<br>
 Then, the chrome tab appeared and start scrolling<br>
 when scrolling ends, download will be started.
-
-<iframe src="https://github.com/nickjw0205/YTS-Download/blob/main/result.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![](https://github.com/nickjw0205/YTS-Download/blob/main/result.gif){: width="50%" height="50%"}{: .center}
