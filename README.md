@@ -14,6 +14,15 @@
  >>> cd YTS-Download
  ```
 
+ ### Necessary Package
+ ```shell
+ pip install selenium
+ pip install beautifulsoup4
+ pip install bs4
+ pip install youtube_dl
+ pip install opencv-python
+ ```
+
  ### Set path of chromedriver
  before run code you have to set path.<br>
  set path in search_youtube function to location of chromedriver you downloaded above.
